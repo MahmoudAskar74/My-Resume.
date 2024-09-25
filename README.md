@@ -78,8 +78,8 @@
                 <h2>Personal</h2>
                 <ul>
                     <li>Location: Zagazig, Egypt</li>
-                    <li>Email: mahmoud.yousry.askar.74@gmail.com</li>
-                    <li>Phone: +201553455574</li>
+                    <li>Email: <a href="mailto:mahmoud.yousry.askar.74@gmail.com" style="color: white;">mahmoud.yousry.askar.74@gmail.com</a></li>
+                    <li>Phone: <a href="tel:+201553455574" style="color: white;">+201553455574</a></li>
                 </ul>
             </div>
 
@@ -98,7 +98,6 @@
                     <li>Relationship Building</li>
                     <li>Community Relationship Building</li>
                     <li>External Communications</li>
-                    <li>Team Collaboration</li>
                 </ul>
             </div>
 
@@ -116,7 +115,7 @@
             <div class="section">
                 <h2>Experience</h2>
                 <h3>PR Specialist, B2B Matchmaking</h3>
-                <p>2020-2022</p>
+                <p>March 2024 - Present</p> <!-- تم تحديث التاريخ -->
                 <ul>
                     <li>Assisted with marketing strategy development to increase public awareness and customer engagement.</li>
                     <li>Spearheaded community relations initiatives that demonstrated corporate social responsibility while elevating brand awareness among local audiences.</li>
@@ -124,7 +123,7 @@
                 </ul>
 
                 <h3>Tele Sales, Alpha Markets</h3>
-                <p>2020-2022</p>
+                <p>December 2023 - March 2024</p> <!-- تم تحديث التاريخ -->
                 <ul>
                     <li>Prospected and secured new business through telesales and relationship building.</li>
                     <li>Developed telesales scripts for various products and services, ensuring consistency in messaging across all telesales efforts.</li>
