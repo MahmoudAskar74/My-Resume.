@@ -70,7 +70,7 @@
 <body>
     <div class="container">
         <div class="left-column">
-            <img src=["https://drive.google.com/uc?id=1E4bzgDNDzhFKxEBrb8K9zalVSflGEnxJ" alt="Profile Image" class="profile-img">
+            <img src="https://drive.google.com/uc?id=1E4bzgDNDzhFKxEBrb8K9zalVSflGEnxJ" alt="Profile Image" class="profile-img">
             <h1>Mahmoud Askar</h1>
             <p>PR Specialist with proven experience in B2B matchmaking, skilled in strategic communications and relationship building.</p>
 
